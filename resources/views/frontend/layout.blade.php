@@ -194,7 +194,7 @@
 </div>
 
 <footer>
-    © {{ date('Y') }} <span>CATERING BERKAH</span> | FUTURE FOOD SYSTEM
+    © {{ date('Y') }} <span>CATERING</span> | FUTURE FOOD SYSTEM
 </footer>
 
 </body>
