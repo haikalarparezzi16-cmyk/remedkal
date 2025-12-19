@@ -87,8 +87,6 @@
                 rgba(0,255,255,0.6),
                 transparent
             );
-            transform: translateX(-100%);
-            transition: 0.4s;
         }
 
         nav a:hover::before {
@@ -158,13 +156,7 @@
             left: 100%;
         }
 
-        .card:hover {
-            transform: translateY(-6px) scale(1.01);
-            box-shadow:
-                0 0 25px rgba(0,255,255,0.5),
-                inset 0 0 15px rgba(0,255,255,0.25);
-            border-color: #00f6ff;
-        }
+
 
         /* =====================
            FOOTER CYBER
